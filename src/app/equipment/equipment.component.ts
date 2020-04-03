@@ -44,6 +44,7 @@ export class EquipmentComponent implements OnInit {
       return true;
     }
   }
+
    // Code your addItem function here:
    
 }
